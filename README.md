@@ -8,4 +8,4 @@ A empresa Contoso trata-se de uma gigante do varejo, e para otimizarmos sua esta
 Para essa solução, iremos utilizar um algoritmo de  machine learning de Floresta Aleatória de Regressão para prever as vendas de 1946 produtos em nossa base, com mais de 640 modelos de machine learning treinados utilizando ajustes de hiperparâmetros com GridSearch!
 
 ## Entendimento dos dados
-Clicando aqui, você será redirecionado para a aba de entendimento dos dados, estrutura das variáveis e a base de dados utilizada.
+[Clicando aqui, você será redirecionado para a aba de entendimento dos dados, estrutura das variáveis e a base de dados utilizada.](base/entendimento%dos%dados.md)
