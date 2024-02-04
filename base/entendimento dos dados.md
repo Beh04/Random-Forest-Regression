@@ -1,4 +1,7 @@
-### Estrutura dos Dados
+## Base de dados utilizada
+[Baixar base de dados](base_vendas_ano.xlsx)
+
+## Estrutura dos Dados
 
 - Os dados da base estão estruturados da seguinte forma:
 
