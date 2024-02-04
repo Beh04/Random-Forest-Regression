@@ -11,4 +11,4 @@ Para essa solução, iremos utilizar um algoritmo de  machine learning de Flores
 [Clicando aqui](base/entendimento%20dos%20dados.md), você será redirecionado para a aba de entendimento dos dados, estrutura das variáveis e a base de dados utilizada.
 
 ## [Solução do problema com resultados!](solução/Previsão_de_Vendas.ipynb)
- ![arq](img/resultados.png)
+ ![arq](img/resultados.PNG)
